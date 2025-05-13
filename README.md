@@ -19,7 +19,7 @@ for implementing the uC/OS-II , the source files must be included in the source\
 1. Multitasking
 2. Semaphores
 3. Mutexes
-4. Message Box
+4. Mail Box
 5. Queueing
 
 
